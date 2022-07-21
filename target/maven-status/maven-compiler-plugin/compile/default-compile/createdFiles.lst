@@ -1,0 +1,17 @@
+com/kafka/dto/SpaceDeviceRequest.class
+com/kafka/config/SpringKafkaConfig.class
+com/kafka/producer/KafkaProducer.class
+com/kafka/main/SpringMain.class
+com/kafka/constant/ApplicationConstant.class
+com/kafka/dto/Space.class
+com/kafka/util/CustomerConstant.class
+com/kafka/dto/DeviceVendorProperties.class
+com/kafka/dto/SpaceLocation.class
+com/kafka/producer/KafkaConsumer.class
+com/kafka/dto/GeographyIds.class
+com/kafka/util/GenericRestClient.class
+com/kafka/dto/SpaceSensorRequest.class
+com/kafka/helper/kafkaHelper.class
+com/kafka/dto/OpenHours.class
+com/kafka/util/RestClientRequestMapper.class
+com/kafka/dto/SpaceRequest.class

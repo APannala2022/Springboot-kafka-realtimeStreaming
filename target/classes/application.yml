@@ -1,0 +1,8 @@
+server:
+   port: 9095
+   
+host.space.api.url:
+   http://localhost:8080/space
+
+host.space.api.version:
+   2.0   
